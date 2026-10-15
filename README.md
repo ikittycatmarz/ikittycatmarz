@@ -1,4 +1,4 @@
-<img width="1144" height="1132" alt="image" src="https://github.com/user-attachments/assets/f3db6467-1a1c-4622-8e69-ec6a3bdb5f75" />
 
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a33a8e77-53a1-49a8-89fb-579c4f5132ba" />
 
-idk
+idk how this thing works
